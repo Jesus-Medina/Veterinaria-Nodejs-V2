@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Juanito",
+    "edad": "11",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "vomito"
+  },
+  {
+    "nombre": "Dwayne Johnson",
+    "edad": "1",
+    "animal": "hamster",
+    "color": "gris",
+    "enfermedad": "Fractura"
+  },
+  {
+    "nombre": "Pantufla Gonzales",
+    "edad": "2",
+    "animal": "perro",
+    "color": "cafe",
+    "enfermedad": "pulgas"
+  },
+  {
+    "nombre": "Princesa",
+    "edad": "5",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "parasitos"
+  },
+  {
+    "nombre": "Charli",
+    "edad": "8",
+    "animal": "perro",
+    "color": "bicolor negro cafe",
+    "enfermedad": "zarpullido"
+  },
+  {
+    "nombre": "Pichulo Alfonso",
+    "edad": "1",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "Herida"
+  },
+  {
+    "nombre": "Gustavo Cerati",
+    "edad": "4",
+    "animal": "loro",
+    "color": "arcoiris",
+    "enfermedad": "ansiedad"
+  },
+  {
+    "nombre": "Palmito",
+    "edad": "6",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "gastrointeritis"
+  }
+]
